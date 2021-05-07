@@ -1,0 +1,8 @@
+{
+    "components": [
+        "Joystick.qml"
+    ],
+    "main": "Lab3.qml",
+    "resources": [
+    ]
+}
